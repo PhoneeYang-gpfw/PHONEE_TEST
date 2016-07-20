@@ -8,7 +8,7 @@ Change log list only for experiment:
     4. The 4th time modification for the file
     5. The 5th fime modification for the file
     6. The 6th time modification
-    7. The 7th time modification
+    7. The 7th time modification is a good change.
     8. The 8th time modification is not a good change.
     9. Modify the file
     10. the 10th teme to modify
