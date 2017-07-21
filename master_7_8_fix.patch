@@ -1,0 +1,51 @@
+From 9e7f9d72dd6e59ea7beccf619d446037f6b0debb Mon Sep 17 00:00:00 2001
+From: Phonee Yang <phoneeyang@gopro.com>
+Date: Wed, 20 Jul 2016 15:45:40 +0800
+Subject: [PATCH 1/2] [master]: mark the 8th record with a bad record
+
+---
+ master_file.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/master_file.txt b/master_file.txt
+index 5bc24ab..4bbfa5e 100644
+--- a/master_file.txt
++++ b/master_file.txt
+@@ -9,7 +9,7 @@ Change log list only for experiment:
+     5. The 5th fime modification for the file
+     6. The 6th time modification
+     7. The 7th time modification
+-    8. The 8th time modification
++    8. The 8th time modification is not a good change.
+     9. Modify the file
+     10. the 10th teme to modify
+     11. the 11th time to modify the file 
+-- 
+1.9.5.msysgit.1
+
+
+From efb46b1cfef7f413442592829a4d1881684465a9 Mon Sep 17 00:00:00 2001
+From: Phonee Yang <phoneeyang@gopro.com>
+Date: Wed, 20 Jul 2016 15:46:35 +0800
+Subject: [PATCH 2/2] [master]: Mark the 7th record to be a good point
+
+---
+ master_file.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/master_file.txt b/master_file.txt
+index 4bbfa5e..6e36502 100644
+--- a/master_file.txt
++++ b/master_file.txt
+@@ -8,7 +8,7 @@ Change log list only for experiment:
+     4. The 4th time modification for the file
+     5. The 5th fime modification for the file
+     6. The 6th time modification
+-    7. The 7th time modification
++    7. The 7th time modification is a good change.
+     8. The 8th time modification is not a good change.
+     9. Modify the file
+     10. the 10th teme to modify
+-- 
+1.9.5.msysgit.1
+
