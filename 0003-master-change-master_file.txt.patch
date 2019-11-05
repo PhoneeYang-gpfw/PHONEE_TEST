@@ -1,0 +1,24 @@
+From bb2864a111fdb40f520277c1f1dc572a8dead153 Mon Sep 17 00:00:00 2001
+From: Phonee Yang <phoneeyang@gopro.com>
+Date: Wed, 20 Jul 2016 18:07:52 +0800
+Subject: [PATCH 3/3] [master]: change master_file.txt
+
+---
+ master_file.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/master_file.txt b/master_file.txt
+index ffa1c42..8bbaebd 100644
+--- a/master_file.txt
++++ b/master_file.txt
+@@ -10,7 +10,6 @@ Change log list only for experiment:
+     6. The 6th time modification
+     7. The 7th time modification is a good change.
+     8. The 8th time modification is not a good change.
+-    9. Modify the file
+     10. the 10th teme to modify
+     11. the 11th time to modify the file 
+     12. the 12th time to modify the file 
+-- 
+1.9.5.msysgit.1
+
