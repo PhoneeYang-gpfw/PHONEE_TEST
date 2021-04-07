@@ -1,0 +1,23 @@
+From 17e0fa181a260e2e528ec42686a66260932a5a16 Mon Sep 17 00:00:00 2001
+From: Phonee Yang <phoneeyang@gopro.com>
+Date: Wed, 20 Jul 2016 18:05:45 +0800
+Subject: [PATCH 2/3] [master]: change the file.
+
+---
+ master_file.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+diff --git a/master_file.txt b/master_file.txt
+index 6e36502..ffa1c42 100644
+--- a/master_file.txt
++++ b/master_file.txt
+@@ -23,4 +23,5 @@ Change log list only for experiment:
+     remote merge test:
+     1st test
+     2nd test
+-    3rd test
++
++3rd test
+-- 
+1.9.5.msysgit.1
+
